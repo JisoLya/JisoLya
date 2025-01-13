@@ -12,16 +12,15 @@
 - 🌱 I’m currently learning OJ Service
 - 📫 How to reach me ...
 
---- 
 
-
-
-
+<div>
+  
 <p align="center">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=JisoLya&show_icons=true)
 
 </p>
+</div>
 
 <!---
 JisoLya/JisoLya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
