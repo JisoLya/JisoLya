@@ -17,8 +17,11 @@
   
 <p align="center">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=JisoLya&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=JisoLya)
 
+</p>
+<p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisoLya)
 </p>
 </div>
 
