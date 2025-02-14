@@ -16,6 +16,7 @@
 <div>
 <p align="center">
 ![github stats](https://github-readme-stats.vercel.app/api?username=JisoLya)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisoLya)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 </div>
