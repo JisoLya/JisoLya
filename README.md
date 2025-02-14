@@ -15,9 +15,13 @@
 
 <div>
 <p align="center">
-![github stats](https://github-readme-stats.vercel.app/api?username=JisoLya)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisoLya)](https://github.com/JisoLya/github-readme-stats)
+<a href="https://github.com/JisoLya/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JisoLya&repo=github-readme-stats" />
+</a>
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=JisoLya) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisoLya&layout=compat)](https://github.com/JisoLya/github-readme-stats)
 </p>
 </div>
 
