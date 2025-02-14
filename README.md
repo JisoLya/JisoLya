@@ -16,7 +16,9 @@
 
 ## 📈 GitHub Stats
 
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=JisoLya) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisoLya)
+
+## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisoLya&layout=compat)](https://github.com/JisoLya/github-readme-stats)
 
