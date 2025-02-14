@@ -13,8 +13,6 @@
 - 📫 How to reach me ...
 
 
-<div>
-<p align="center">
 
 <a href="https://github.com/JisoLya/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JisoLya&repo=github-readme-stats" />
@@ -22,8 +20,8 @@
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=JisoLya) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisoLya&layout=compat)](https://github.com/JisoLya/github-readme-stats)
-</p>
-</div>
+
+
 
 
 <!---
