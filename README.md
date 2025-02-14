@@ -14,17 +14,15 @@
 
 
 <div>
-  
 <p align="center">
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=JisoLya)
-
-</p>
-<p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JisoLya)
 </p>
 </div>
-
+<div>
+  <p>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisoLya)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+</div>
 <!---
 JisoLya/JisoLya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
