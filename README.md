@@ -16,7 +16,7 @@ Welcome to my github!
 
 ## 📈 GitHub Stats && Top Languages
 <a>
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=JisoLya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=JisoLya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 </a>
 
 <a>
