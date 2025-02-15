@@ -2,7 +2,7 @@
 Welcome to my github!
 
 <a>
-  <img align="right" height="150px" width="200px" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
+  <img height="150px" width="200px" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 </a>
 
 ## I'm JisoLya
