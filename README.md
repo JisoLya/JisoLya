@@ -8,10 +8,7 @@ Welcome to my github!
 ## I'm JisoLya
 
 - 👋 Hi, I’m @JisoLya
-- 🔭 Full-time student
 - 👀 I’m interested in distributed system
-- 🌱 I’m currently learning OJ Service
-- 🙋 Never too late to turn
 - 📫 How to reach me ...
 
 ## 📈 GitHub Stats && Top Languages
