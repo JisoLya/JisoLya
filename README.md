@@ -9,7 +9,7 @@ Welcome to my github!
 
 - 👋 Hi, I’m @JisoLya
 - 👀 I’m interested in distributed system
-- 📫 How to reach me ...
+- 📫 How to reach me Email: Soliuyan@163.com
 
 ## 📈 GitHub Stats && Top Languages
 <a>
