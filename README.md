@@ -1,10 +1,6 @@
 # Hey there! 👋
 Welcome to my github!
 
-My PRs:
-
-https://github.com/apache/incubator-seata/pull/7330#issue-3030175095
-
 <a>
   <img height="150px" width="200px" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 </a>
