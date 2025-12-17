@@ -5,7 +5,7 @@ Welcome to my github!
   <img height="150px" width="200px" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 </a>
 
-## I'm Soyazz
+## I'm Soyaazz
 
 - 👋 Hi, I’m @JisoLya
 - 👀 I’m interested in distributed system, llm inference...
